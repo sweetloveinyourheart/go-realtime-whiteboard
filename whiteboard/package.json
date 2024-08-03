@@ -9,10 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@radix-ui/react-toast": "^1.2.1",
+    "@radix-ui/themes": "^3.1.1",
     "babel-plugin-react-compiler": "0.0.0-experimental-334f00b-20240725",
     "next": "15.0.0-rc.0",
     "react": "19.0.0-rc-8269d55d-20240802",
-    "react-dom": "19.0.0-rc-8269d55d-20240802"
+    "react-dom": "19.0.0-rc-8269d55d-20240802",
+    "tldraw": "^2.4.3"
   },
   "devDependencies": {
     "@types/node": "^20",
